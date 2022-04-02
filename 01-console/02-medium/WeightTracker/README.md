@@ -36,8 +36,8 @@ When running a report a the user should specify the name of the person for whom 
 
 ```
 Reports
-------------------------------------------------
-Enter the name of the person for the repot: Gary
+-------------------------------------------------
+Enter the name of the person for the report: Gary
 Start date (Blank = 7 days before today): 2022-03-13
 End date (Blank = today): 2022-03-19
 
