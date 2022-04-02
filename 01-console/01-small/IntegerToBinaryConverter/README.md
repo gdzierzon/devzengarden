@@ -1,6 +1,16 @@
 # Integer to Binary Converter
 
-Prompt the user for a whole number (Integer). Convert the number into a Binary string and display the result of the conversion.
+Prompt the user for a whole number (Base 10). Convert the number into a Binary (Base 2) string and display the result of the conversion.
+
+0 => 0
+1 => 1
+2 => 10
+3 => 11
+4 => 100
+5 => 101
+6 => 110
+7 => 111
+8 => 1000
 
 ### Example
 ```

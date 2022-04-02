@@ -1,6 +1,17 @@
 # Binary to Integer Converter
 
-Prompt the user for a Binary number. Convert the number into an Integer and display the result of the conversion.
+Prompt the user for a Binary (Base 2) number. Convert the number into an Integer (Base 10) and display the result of the conversion.
+
+
+0 => 0
+1 => 1
+10 => 2
+11 => 3
+100 => 4
+101 => 5
+110 => 6
+111 => 7
+1000 => 8
 
 ### Example
 ```
