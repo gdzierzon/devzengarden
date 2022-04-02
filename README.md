@@ -2,7 +2,7 @@
 
 This DevZenGarden repo is a place to find inspiration for development projects.
 
-These project ideas are not intended to be platform or language specific, but can generally be done in the programming language of your choice.
+These project ideas are not intended to be platform or language specific, but are intended to be flexible enough to complete ***in the programming language of your choice***.
 
 All projects are intended to help you practice the full development life cycle.
 
@@ -18,7 +18,7 @@ All projects are intended to help you practice the full development life cycle.
 
 We want you to find project ideas based on the type of project that you are building. These may include:
 
-* Console Application
+* [Console Application](01-console/)
 * Web Front End
 * API
 * Database
